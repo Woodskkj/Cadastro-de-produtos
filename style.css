@@ -1,0 +1,39 @@
+body{
+    background-color: #003366;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+form{
+    background-color: #003366;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+input[type="text"], input[type="number"], textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px;
+    border: none;
+}
+
+button{
+    background-color: white;
+    color: #003366;
+    padding: 15px, 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: #003366;
+    color: white;
+}
+
+#productList{
+    margin-top: 20px;
+}
